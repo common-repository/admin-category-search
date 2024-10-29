@@ -1,0 +1,98 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin category search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-08 13:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.8; wp-5.9.1\n"
+"X-Domain: admin-category-search"
+
+#. Name of the plugin
+msgid "Admin category search"
+msgstr ""
+
+#. Label of admin menu
+msgid "Category search"
+msgstr ""
+
+#. Author of the plugin
+msgid "Atilla Ordog"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.gadratilprogramming.net"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/atillaordog/wp-admin-search"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin adds search functionality to taxonomies and dropdowns like author"
+msgstr ""
+
+#. Settings page title
+msgid "WP Admin Category Search Settings"
+msgstr ""
+
+#. Settings page description
+msgid "Manage the places where you want to have search"
+msgstr ""
+
+#. Option 1 title
+msgid "Taxonomy(Categories) Search Tab"
+msgstr ""
+
+#. Option 1 description
+msgid "Adds a search tab to taxonomies after Most Used"
+msgstr ""
+
+#. Option 2 title
+msgid "Taxonomy(Categories) In-field search"
+msgstr ""
+
+#. Option 2 description
+msgid "Adds a search field after the taxonomy title that filters the list below"
+msgstr ""
+
+#. Option 3 title
+msgid "Dropdowns(author) search"
+msgstr ""
+
+#. Option 3 description
+msgid "Adds a search field after the dropdown that filters the dropdown elements"
+msgstr ""
+
+#. Option 4 title
+msgid "Show subcategories when results found"
+msgstr ""
+
+#. Option 4 description
+msgid "If a found category has subcategories, those will be shown"
+msgstr ""
+
+#. Search label
+msgid "Search"
+msgstr ""
+
+#. Reset Search label
+msgid "Reset Search Results"
+msgstr ""
+
+#. Go label
+msgid "Go"
+msgstr ""
+
+#. Reset label
+msgid "Reset"
+msgstr ""
